@@ -1,4 +1,4 @@
 Beginners
 =========
 
-Extracting packages
+Extracting packages on Debian Wheezy 7
